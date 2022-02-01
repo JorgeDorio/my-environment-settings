@@ -9,6 +9,7 @@
 
 - Instalar o [ZSH](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
 - Instalar o [Oh My ZSH](https://ohmyz.sh/)
+- Instalar o [Zinit](https://github.com/zdharma-continuum/zinit}
 - Instalar Plugins:
 ~~~
 zinit light zdharma-continuum/fast-syntax-highlighting
