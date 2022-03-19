@@ -15,6 +15,7 @@
 zinit light zdharma-continuum/fast-syntax-highlighting
 zinit light zsh-users/zsh-autosuggestions
 zinit light zsh-users/zsh-completions
+. /opt/asdf-vm/asdf.sh
 ~~~
 
 # Configurando Aplicativos
