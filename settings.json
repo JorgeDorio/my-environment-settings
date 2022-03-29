@@ -1,12 +1,9 @@
-{
+{   
     "workbench.colorTheme": "One Dark Pro",
     "workbench.iconTheme": "material-icon-theme",
     "code-runner.runInTerminal": true,
     "editor.bracketPairColorization.enabled": true,
-    "editor.guides.bracketPairs": "active"
-}
-
-{
+    "editor.guides.bracketPairs": "active",
     "terminal.integrated.fontSize": 14,
     "editor.fontLigatures": true,
     "editor.semanticHighlighting.enabled": false,
