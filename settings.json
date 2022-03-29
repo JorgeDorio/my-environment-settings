@@ -1,52 +1,13 @@
-// {
-//     "editor.fontSize": 16,
-//     "terminal.integrated.fontSize": 16,
-//     "workbench.iconTheme": "material-icon-theme",
-//     "editor.minimap.enabled": false,
-//     "editor.wordWrap": "on",
-//     "workbench.editor.tabSizing": "shrink",
-//     "explorer.compactFolders": false,
-
-//     // formatter
-//     "prettier.tabWidth": 2,
-//     "prettier.semi": false, 
-//     "prettier.singleQuote": true,
-//     "prettier.trailingComma": "none", 
-//     "prettier.arrowParens": "avoid",
-//     "prettier.endOfLine": "auto",
-//     "editor.tabSize": 2,
-//     "[javascript]": {
-//         "editor.defaultFormatter": "vscode.typescript-language-features"
-//     },
-//     "[html]": {
-//         "editor.defaultFormatter": "esbenp.prettier-vscode"
-//     },
-//     "liveServer.settings.donotShowInfoMsg": true,
-//     "liveServer.settings.donotVerifyTags": true,
-//     "liveServer.settings.CustomBrowser": "chrome",
-//     "explorer.confirmDragAndDrop": false,
-//     "explorer.confirmDelete": false,
-//     "security.workspace.trust.untrustedFiles": "newWindow",
-//     "eslint.alwaysShowStatus": true,
-//     "workbench.colorTheme": "One Dark Pro Flat",
-//     "bracket-pair-colorizer-2.depreciation-notice": false,
-//     "editor.formatOnPaste": true,
-
-//     "editor.codeActionsOnSave": {
-//         "source.fixAll.eslint": true
-//     },
-//     "eslint.validate": [
-//         "javascript"
-//     ],
-//     "[javascriptreact]": {
-//         "editor.defaultFormatter": "esbenp.prettier-vscode"
-//     }
-// }
+{
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "material-icon-theme",
+    "code-runner.runInTerminal": true,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active"
+}
 
 {
     "terminal.integrated.fontSize": 14,
-    "workbench.iconTheme": "material-icon-theme",
-
     "editor.fontLigatures": true,
     "editor.semanticHighlighting.enabled": false,
     "explorer.compactFolders": false,
@@ -133,7 +94,6 @@
     "material-icon-theme.languages.associations": {
         "dotenv": "tune"
     },
-    "workbench.colorTheme": "One Dark Pro",
     "window.menuBarVisibility": "toggle",
     "typescript.updateImportsOnFileMove.enabled": "never",
     "tabnine.experimentalAutoImports": true,
